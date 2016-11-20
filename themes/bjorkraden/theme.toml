@@ -1,0 +1,12 @@
+name = "Bjorkraden"
+license = "MIT"
+licenselink = "https://github.com/bjorkraden/bjorkraden.github.io/blob/master/themes/bjorkraden/LICENSE.md"
+description = ""
+homepage = "https://bjorkraden.se/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.17
+
+[author]
+  name = ""
+  homepage = ""

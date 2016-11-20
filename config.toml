@@ -1,0 +1,4 @@
+baseurl = "https://bjorkraden.se/"
+title = "BRF Björkraden"
+languageCode = "sv-se"
+theme = "bjorkraden"
