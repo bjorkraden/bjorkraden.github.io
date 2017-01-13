@@ -1,8 +1,0 @@
-baseurl = "https://bjorkraden.se/"
-title = "BRF Björkraden"
-languageCode = "sv-se"
-theme = "hyde-y"
-copyright = "(c) 2016 Bostadsrättsförening Björkraden"
-
-[params]
-sidebar = "left"
